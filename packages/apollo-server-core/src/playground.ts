@@ -28,6 +28,7 @@ export const defaultPlaygroundOptions = {
     'general.betaUpdates': false,
     'editor.theme': 'dark' as Theme,
     'editor.reuseHeaders': true,
+    'editor.cursorShape': 'line',
     'tracing.hideTracingResponse': true,
     'editor.fontSize': 14,
     'editor.fontFamily': `'Source Code Pro', 'Consolas', 'Inconsolata', 'Droid Sans Mono', 'Monaco', monospace`,
